@@ -3,7 +3,7 @@
 This project is a base layout template using Gulp, SCSS, Stylelint, and includes CSS animations, designed to streamline the development process and maintain high code quality.
 It provides a structured environment for front-end development, focusing on automation, efficient styling, and code linting.
 
-## [DEMO]()
+## [DEMO](https://bhunters.github.io/RoiSchool/)
 
 ## Technologies used
 
@@ -25,7 +25,7 @@ To run this project locally, you will need:
 
    ```bash
    git clone https://github.com/BHunterS/RoiSchool
-   cd 
+   cd RoiSchool
    ```
 
 2. Install dependencies:
